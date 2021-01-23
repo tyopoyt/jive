@@ -20,7 +20,7 @@
 *.rar
 
 # Config file
-.app.src.main.res.values.config.xml
+/app/src/main/res/values/config.xml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
