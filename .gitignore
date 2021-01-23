@@ -1,3 +1,7 @@
+# custom
+local.properties
+/.idea/
+
 # Compiled class file
 *.class
 
